@@ -7,5 +7,5 @@ Descrição...
 :man_student: Integrante: [José Lucas Batista](https://github.com/walkerzito). <br />
 :man_student: Integrante: [Kennedy Alves Pereira](https://github.com/kennedyAlvess). <br />
 :man_student: Integrante: [Leonardo Inácio Guilherme Dantas](https://github.com/LeonardoIGD). <br />
-:woman_student: Integrante: [Livia Beatriz Maia de Lima](https://github.com/liviabeatrizml).
+:woman_student: Integrante: [Lívia Beatriz Maia de Lima](https://github.com/liviabeatrizml).
 
